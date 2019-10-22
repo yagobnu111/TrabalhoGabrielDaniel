@@ -1,0 +1,9 @@
+cep de origem
+cep de destino
+peso
+comprimento
+altura
+largura
+Diametro
+
+vai retornar valor e prazo e entrega
